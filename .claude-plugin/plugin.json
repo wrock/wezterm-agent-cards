@@ -1,0 +1,8 @@
+{
+  "name": "wezterm-agent-cards",
+  "version": "1.0.0",
+  "description": "WezTerm agent sidebar — curses TUI showing Claude Code sessions as stacked status cards with hooks for real-time state tracking.",
+  "author": {
+    "name": "Wolfgang"
+  }
+}
